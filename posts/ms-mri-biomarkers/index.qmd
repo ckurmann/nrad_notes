@@ -14,6 +14,7 @@ MRI is the most important tool for diagnosing, monitoring, and assessing treatme
 ## The MS Disease Spectrum
 
 MS is not a single entity but a spectrum of clinical phenotypes — and the labels matter because they carry different prognostic and therapeutic implications. 
+
 - RIS (radiologically isolated syndrome) is incidental demyelinating lesions on MRI with no clinical symptoms; up to 50% convert to clinical MS within 10 years. 
 - CIS (clinically isolated syndrome) is the first clinical demyelinating event, not yet meeting full criteria. 
 - RRMS covers the relapsing-remitting course that accounts for ~85% of cases — alternating relapses and remissions with stable function between. 
@@ -27,6 +28,7 @@ These are better understood as a continuous spectrum than as discrete disease ca
 ## The Diagnostic Framework: DIS and DIT
 
 MS diagnosis rests on two pillars — **dissemination in space (DIS)** and **dissemination in time (DIT)** — which together establish that the disease is chronic and multifocal. Neither alone is sufficient. DIS without DIT could be a single monophasic event like ADEM; DIT without DIS could be a recurrent focal condition.
+
 - **DIS** requires T2-hyperintense lesions in at least two of five CNS topographies: periventricular, cortical or juxtacortical, infratentorial, spinal cord, and — added in the 2024 criteria — optic nerve.
 - **DIT** is satisfied by either a new T2 or gadolinium-enhancing lesion on follow-up MRI, or the simultaneous presence of an enhancing and a non-enhancing lesion on a single scan. That second option matters: it allows DIT diagnosis at the very first visit, without waiting for a follow-up scan to show something new.
 
@@ -88,6 +90,7 @@ CALs encompass the broader category of mixed active and inactive lesions with on
 ### Cortical Lesions
 
 MS is not purely a white matter disease. Cortical lesions have been a recognised topography since the 2017 criteria and are now well-established both pathologically and clinically. Four subtypes by location within the cortical laminae: 
+
 - Type I (leukocortical) span the grey-white junction and are the easiest to detect (~40% visible on 3D FLAIR at 3T).
 - Type II (intracortical) lie entirely within the cortex and are rarely detected at clinical field strengths. 
 - Type III (subpial) run along the pial surface in a band-like pattern and are nearly invisible at 1.5–3T (~5% detection).
@@ -106,6 +109,7 @@ Focal high signal intensity in the subarachnoid space on delayed post-contrast 3
 Neurodegeneration — axonal loss, neuronal death, gliosis — progresses independently of acute inflammation and is the main driver of irreversible disability. **Grey matter atrophy** correlates more strongly with clinical disability than white matter atrophy, because grey matter contains the neuronal cell bodies and synaptic connections that actually mediate function.
 
 The key patterns: 
+
 - Cortical atrophy is strongly associated with disease progression and SPMS conversion.
 - Thalamic atrophy is linked to both physical disability and cognitive impairment and is a risk factor for worsening.
 - Spinal cord atrophy (especially cervical) progresses faster than brain atrophy, is more pronounced in PPMS, and even small increases predict disability progression.

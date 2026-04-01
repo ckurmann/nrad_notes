@@ -32,6 +32,7 @@ This distribution predicts the NMOSD lesion map with remarkable accuracy. Learn 
 ### Spinal Cord
 
 The spinal cord is the most typical NMOSD target, and it announces itself clearly. 
+
 - **LETM (longitudinally extensive transverse myelitis)** involves ≥3 vertebral segments, is centrally placed along the central canal grey matter, and covers >50% of the cord cross-section on axial images — with the cervicothoracic segments most commonly affected. 
 - **Bright spotty lesions (BSL)** are focal areas of extreme T2 hyperintensity on axial imaging — brighter than CSF — without flow void effects, reflecting necrosis and microcystic change from severe astrocyte destruction. 
 - **Dark T1 lesions** in the same areas represent **necrosis and cavitation**, more severe than the gliosis-based black holes of MS. The BSL-plus-dark T1 pairing is a useful double sign. 
@@ -54,6 +55,7 @@ NMOSD optic neuritis is bilateral, longitudinally extensive (>half the optic ner
 ### Brain
 
 Brain lesions occur in 24–89% of NMOSD patients and are mostly clinically silent. The patterns follow AQP4 distribution. 
+
 - The **corpus callosum** is affected at its ependymal surface rather than at the callosal-septal interface (as in MS): on sagittal FLAIR this produces heterogeneous, oedematous hyperintensity — the **marbled pattern**; on axial FLAIR, periependymal lesions along both lateral ventricles create the **arch bridge appearance**. 
 - **Periependymal lesions** follow the lining of the lateral, third, and fourth ventricles; hypothalamic involvement can cause narcolepsy, anorexia, and temperature dysregulation. 
 - The **trident sign** appears when a corticospinal tract lesion in the posterior limb of the internal capsule generates vasogenic oedema extending into the adjacent temporal lobe. 
