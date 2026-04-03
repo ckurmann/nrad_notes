@@ -9,6 +9,17 @@ NMOSD and MS can look similar on conventional MRI. But their treatments are fund
 
 *Based on: Dutra BG et al. Neuromyelitis Optica Spectrum Disorders: Spectrum of MR Imaging Findings and Their Differential Diagnosis. RadioGraphics 2018;38:169–193. https://doi.org/10.1148/rg.2018170141*
 
+<style>
+.callout a {
+  color: var(--callout-color);
+}
+</style>
+
+::: {.callout-note title="Radiopaedia Cases"}
+- [Case #46297](https://radiopaedia.org/cases/46297){target="_blank"}
+- [Case #26591](https://radiopaedia.org/cases/26591){target="_blank"}
+:::
+
 ---
 
 ## Pathogenesis: NMOSD is an Astrocytopathy

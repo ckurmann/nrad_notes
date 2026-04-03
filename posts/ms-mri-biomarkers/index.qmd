@@ -9,6 +9,17 @@ MRI is the most important tool for diagnosing, monitoring, and assessing treatme
 
 *Personal notes based on: Lim TR et al. Conventional and Emerging MRI Biomarkers of Multiple Sclerosis. RadioGraphics 2026;46(3):e250069. https://doi.org/10.1148/rg.250069*
 
+<style>
+.callout a {
+  color: var(--callout-color);
+}
+</style>
+
+::: {.callout-note title="Radiopaedia Cases"}
+- [Case #28244](https://radiopaedia.org/cases/28244){target="_blank"}
+- [Case #29069](https://radiopaedia.org/cases/29069){target="_blank"}
+:::
+
 ---
 
 ## The MS Disease Spectrum

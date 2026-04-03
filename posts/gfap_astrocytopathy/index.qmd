@@ -9,6 +9,17 @@ GFAP astrocytopathy was only described in 2016. Which means it's new enough that
 
 *Personal notes based on: Shetty D et al. Glial Fibrillary Acidic Protein Astrocytopathy: Review of Pathogenesis, Imaging Features, and Radiographic Mimics. AJNR Am J Neuroradiol 2024;45:1394–1402. https://doi.org/10.3174/ajnr.A8236*
 
+<style>
+.callout a {
+  color: var(--callout-color);
+}
+</style>
+
+::: {.callout-note title="Radiopaedia Cases"}
+- [Case #191070](https://radiopaedia.org/cases/191070){target="_blank"}
+- [Case #176140](https://radiopaedia.org/cases/176140){target="_blank"}
+:::
+
 ---
 
 ## What Is GFAP?

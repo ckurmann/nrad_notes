@@ -1,0 +1,201 @@
+---
+title: "White Matter Diseases: The Classification That Makes Everything Else Make Sense (Probably...Or Hopefully?)"
+date: 2026-04-03
+author: "Christoph"
+categories: [White Matter Diseases, Review]
+draft: false
+---
+Every white matter disease session eventually runs into the same problem: there are too many entities, and without a framework they blur together. Sarbu et al. 2016 is the paper that provides such a framework — a pathophysiologic classification of white matter diseases teaching us the why behind the what to help organize our clinical intuition.
+
+*Based on: Sarbu N, Shih RY, Jones RV, Horkayne-Szakaly I, Oleaga L, Smirniotopoulos JG. White Matter Diseases with Radiologic-Pathologic Correlation. RadioGraphics 2016;36:1426–1447. doi:10.1148/rg.2016160031*
+
+<style>
+.callout a {
+  color: var(--callout-color);
+}
+</style>
+
+::: {.callout-note title="Selected Radiopaedia Cases"}
+- [ADEM — Case #38073](https://radiopaedia.org/cases/38073){target="_blank"}
+- [PML — Case #22071](https://radiopaedia.org/cases/22071){target="_blank"}
+- [PRES — Case #92419](https://radiopaedia.org/cases/92419){target="_blank"}
+- [CADASIL — Case #4460](https://radiopaedia.org/cases/4460){target="_blank"}
+- [Susac syndrome — Case #167622](https://radiopaedia.org/cases/167622){target="_blank"}
+:::
+
+---
+
+## The Framework
+
+White matter diseases divide first into two broad groups: **demyelinating** (secondary destruction of already-formed myelin) and **dysmyelinating** (primary abnormality of myelin formation — the leukodystrophies). Demyelinating diseases then subdivide into four mechanistic categories:
+
+- **Autoimmune** — perivenular inflammation attacking oligodendrocytes or astrocytes (MS, ADEM, NMOSD)
+- **Infectious** — direct pathogen-mediated myelin destruction (PML, HIV encephalopathy, Lyme)
+- **Vascular** — ischemic or inflammatory injury to white matter microvasculature (small-vessel disease, CADASIL, Susac)
+- **Toxic-metabolic** — osmotic, nutritional, or drug-mediated injury to myelin (osmotic myelinolysis, PRES, Wernicke)
+
+This isn't just taxonomy. Each category points at a different diagnostic workup: autoimmune → antibodies and CSF; infectious → serology, PCR, immune status; vascular → risk factors, vessel imaging, genetics; toxic-metabolic → drug and metabolic history. The imaging alone often can't resolve the differential — but knowing which category you're in immediately focuses the next step.
+
+---
+
+## Autoimmune White Matter Diseases
+
+### MS, Tumefactive Demyelinating Lesion (TDL), Balo, Schilder
+
+MS, TDL, Balo concentric sclerosis, and Schilder disease are covered in depth in other posts. The classification point worth reiterating: all are **primary demyelinating diseases of unknown autoimmune etiology**, characterized histologically by perivenular lymphocytic infiltration and demyelination with relative axon preservation. Balo's onion-bulb concentric rings and TDL's open-ring enhancement and low rCBV are their imaging signatures.
+
+**MS MRI follow-up (2020 update):** monitoring frequency is driven by **PML risk**, not just disease activity. Patients on natalizumab >24 months, with positive JC serology, or on immunosuppression need MRI every **3–4 months** — the window for catching early asymptomatic PML before it becomes clinically devastating. Low-risk patients scan annually; stable and asymptomatic for 1–2 years can scan less frequently.
+
+### NMOSD and MOGAD
+
+The pathologic distinction is fundamental. AQP4+ NMOSD is an **astrocytopathy**: antibodies target aquaporin-4 on astrocyte endfeet concentrated at periependymal surfaces, explaining the tight anatomical specificity of its lesions. MOGAD is an **oligodendrocytopathy**: MOG sits on the outermost surface of the myelin sheath, fully exposed to circulating antibodies, with no anatomical constraint — lesions are more diffuse and not periependymally anchored.
+
+| Feature | AQP4+ NMOSD | MOGAD |
+|---|---|---|
+| Pathology | Astrocytopathy | Oligodendrocytopathy |
+| Optic neuritis | ~45%, often unilateral | 60–74%, **more bilateral**; "dirty" intracranial fat; spares chiasm |
+| Area postrema syndrome | ~40% | 6–15% |
+| Transverse myelitis | LETM, upper cord/cervicomedullary | LETM, **lower cord/conus** (sphincter dysfunction) |
+| Encephalitis | Rare | More common |
+| Evolution | Multiphasic, recurrent | Single or few attacks |
+| Prognosis | Worse, greater disability | Better, functional return |
+| Treatment | Steroids, rituximab, plasma exchange | Steroids, plasma exchange; better response |
+
+The conus/lower cord preference of MOGAD is an imaging discriminator in practice: LETM centered on the conus with sphincter symptoms → think MOG-Ab first.
+
+---
+
+### ADEM — Acute Disseminated Encephalomyelitis
+
+ADEM is the entity most commonly confused with MS on first imaging, and it's not intuitive — so it deserves careful unpacking.
+
+**The mechanism is molecular mimicry.** An infection (50–75%, usually upper respiratory) or vaccination triggers an immune response that cross-reacts with myelin proteins — most importantly **MOG** (myelin oligodendrocyte glycoprotein), with anti-MOG IgG found in about 50% of cases. The histology is perivenular demyelination, identical to MS — but the trigger is exogenous, and the disease is **monophasic in 90% of cases**.
+
+This monophasic nature has a direct imaging corollary: **all lesions tend to be the same age and may all enhance simultaneously**. In MS, lesions are always at different stages of evolution.
+
+The lesion distribution reflects the more diffuse immune activation compared to MS: **bilateral, large, rounded, poorly defined, involving both white and gray matter** — deep nuclei, thalami, basal ganglia, and brainstem. Brainstem lesions are ventral midbrain, bilateral and symmetric with poorly defined margins (contrast MS: peripheral, asymmetric, well-defined). U-fibers are frequently involved.
+
+The corpus callosum difference from MS is operationally important. MS lesions arise from the **callososeptal interface**, producing the classic subcallosal "dot-dash" on sagittal FLAIR. ADEM lesions arise from the **periventricular white matter** — they are larger, not anchored to the underside of the corpus callosum, and do not produce the Dawson finger morphology.
+
+| Feature | MS | ADEM |
+|---|---|---|
+| Trigger | Unknown | Infection / vaccination |
+| Course | Multiphasic | Monophasic (90%) |
+| Lesion size | Small, discrete | Large, rounded, poorly defined |
+| Gray matter | Uncommon | Deep nuclei, thalami, brainstem |
+| Corpus callosum | Callososeptal, "dot-dash" | Periventricular, not callososeptal |
+| Enhancement | Mixed ages | All lesions simultaneously |
+| U-fibers | Yes | Yes |
+| Serology | OCBs (up to 90%) | Anti-MOG IgG (~50%), CSF pleocytosis |
+
+**AHL (Hurst disease)** is the fulminant hemorrhagic variant — pathologically similar to ADEM but with vascular injury causing hemorrhage. The single distinguishing imaging feature is **hemorrhage**, which must be present (T2* blooming), either diffusely or in a pseudotumoral pattern. Clinically: death within days to weeks from brainstem involvement.
+
+---
+
+## Infectious White Matter Diseases
+
+### PML — Progressive Multifocal Leukoencephalopathy
+
+JC virus (polyomavirus family) infects and lyses **oligodendrocytes** — which explains why PML is a white matter disease. Latent in healthy individuals, it reactivates under cellular immunodeficiency: HIV/AIDS (CD4 <100), lymphoproliferative disease, transplantation, and MS patients on **natalizumab** (which blocks lymphocyte trafficking into the CNS, removing immune surveillance).
+
+The imaging follows from the target cell. Oligodendrocytes are concentrated in the **peripheral white matter and subcortical U-fibers**, so PML produces **peripheral, asymmetric, confluent white matter lesions with U-fiber involvement**. Because the underlying immune deficiency prevents an inflammatory response, there is classically **no significant contrast enhancement and no mass effect**. Exceptions: IRIS after antiretroviral initiation (immune reconstitution can trigger paradoxical enhancement), and natalizumab-associated PML when the drug is stopped.
+
+### HIV Encephalopathy
+
+HIV targets **microglia**, not oligodendrocytes — leading to diffuse microglial activation and neurodegeneration rather than focal demyelination. The imaging reflects this: **diffuse, bilateral, symmetric periventricular white matter signal change** without mass effect or enhancement. Critically, **brain atrophy** is a hallmark — out of proportion to age. Occurs in 15–20% of AIDS patients despite antiretroviral therapy.
+
+**PML vs HIV side-by-side:**
+
+| | PML | HIV Encephalopathy |
+|---|---|---|
+| Target cell | Oligodendrocyte | Microglia |
+| Distribution | Peripheral, U-fibers | Central, periventricular |
+| Symmetry | Asymmetric | Symmetric |
+| Enhancement | No (except IRIS) | No |
+| Atrophy | No | Yes — hallmark |
+| Corpus callosum | Genu and splenium | Spared early |
+
+### Lyme Disease
+
+CNS involvement in 10–15% of patients. Imaging shows multifocal WMH with variable enhancement; **leptomeningeal and cranial nerve enhancement** (particularly the trigeminal nerve) is a distinguishing feature from MS. CSF shows pleocytosis with lymphocyte predominance; serology confirms.
+
+---
+
+## Vascular White Matter Diseases
+
+Small-vessel disease is the **single most common cause of white matter disease** — responsible for ~45% of dementias and ~20% of strokes. The paper classifies it into six types, but four have distinct imaging signatures worth knowing.
+
+### Arteriolosclerosis (Type 1)
+
+Age- and hypertension-related deep perforator disease. WMH in deep white matter, basal nuclei, corona radiata. Key feature: **U-fibers spared** — they receive dual blood supply (cortical + deep penetrating arteries) and are protected from deep perforator ischemia. This is the most clinically useful discriminator from MS.
+
+### Cerebral Amyloid Angiopathy (Type 2)
+
+β-amyloid deposits in the walls of cortical and leptomeningeal arteries. Imaging: **peripheral (corticosubcortical) microbleeds on SWI**, lobar hemorrhages, superficial siderosis. Occipital and frontal predominance. Definitive diagnosis requires postmortem; the modified Boston criteria allow radiologic diagnosis.
+
+### CADASIL (Type 3)
+
+CADASIL (*C*erebral *A*utosomal-*D*ominant *A*rteriopathy with *S*ubcortical *I*nfarcts and *L*eukoencephalopathy) is caused by a mutation in the **NOTCH3 gene on chromosome 19**, leading to granular osmiophilic material deposition around smooth muscle cells of leptomeningeal and perforating arteries.
+
+The imaging follows a characteristic temporal course: **temporal poles** (early, often before symptoms — the pathognomonic finding), then posterior frontal-parietal-occipital, then external capsule involvement, eventually with microbleeds and lacunar infarcts. Temporal pole + external capsule WMH in a young patient with migraines and strokes = CADASIL until proven otherwise. Send NOTCH3 genetics; avoid angiography (high complication risk from arteriopathic vessels).
+
+### PACNS (Type 4 — Inflammatory)
+
+Primary angiitis of the CNS is limited to brain and spinal cord, with granulomatous inflammation of small and medium leptomeningeal and cortical vessels. The imaging is nonspecific: multifocal cortical-subcortical infarcts, hemorrhages, leptomeningeal enhancement. The critical clinical pearl: **a normal MRI makes PACNS unlikely** — MRI is virtually always abnormal when PACNS is present. Definitive diagnosis requires brain biopsy.
+
+### Susac Syndrome (Type 4 — Inflammatory)
+
+Susac is a rare autoimmune endotheliopathy targeting small neural vessels. The clinical triad — the **"E" syndrome** — is the anchor: **E**ar (sensorineural hearing loss), **E**ye (visual loss from branch retinal artery occlusion), **E**ncephalopathy. Ophthalmoscopy demonstrating retinal artery occlusions is a cornerstone of diagnosis.
+
+The brain imaging shows microinfarcts in different phases, periventricular WM and deep gray matter involvement, and the characteristic corpus callosum finding: **central full-thickness "snowball" lesions** involving the body, not arising from the callososeptal interface. The internal capsule shows a "string of pearls" pattern from the microinfarcts.
+
+**Corpus callosum comparison — a high-yield discriminator table:**
+
+| Disease | CC Location | Imaging Appearance |
+|---|---|---|
+| MS | Callososeptal interface, genu/body | Small "dot-dash", enhancing in acute phase |
+| NMO | Splenium | Large, "marbled" (overlapping), edematous |
+| ADEM | Periventricular WM, not callososeptal | Larger, enhancing (all same age) |
+| Susac | Central, entire thickness | "Snowball", microinfarcts |
+| CADASIL | Entire thickness | T1 black holes (necrosis), not enhancing |
+| Marchiafava-Bignami | **Middle layers**, genu/body | Diffusion restriction acute, atrophy chronic |
+| PML | Genu and splenium | Confluent, no enhancement |
+
+---
+
+## Toxic-Metabolic White Matter Diseases
+
+### Osmotic Myelinolysis
+
+Caused by rapid correction of hyponatremia (or, less commonly, rapid osmotic shifts in other contexts). In 65% of cases: **central pontine T2 hyperintensity with peripheral sparing** — the pontine fiber tracts are densely packed and maximally vulnerable. In one-third of cases extrapontine: thalami, basal nuclei, subcortical white matter. Diffusion restriction in the acute phase. The imaging often lags the clinical event by 1–2 weeks.
+
+### PRES — Posterior Reversible Encephalopathy Syndrome
+
+Triggered by hypertensive crisis, preeclampsia/eclampsia, or cytotoxic drugs. The mechanism is **failure of cerebrovascular autoregulation → breakthrough hyperperfusion → vasogenic edema** — not vasospasm, not ischemia. Because the **posterior circulation has less sympathetic innervation**, it autoregulates less effectively against pressure surges, explaining the posterior (parieto-occipital) predominance.
+
+The word "reversible" is conditional — rapid treatment resolves the edema. Untreated, vasogenic edema progresses to cytotoxic edema, infarction, or hemorrhage.
+
+### Wernicke Encephalopathy
+
+Thiamine (B1) deficiency disrupts Krebs cycle enzyme function in the highest-metabolic regions. The three classic locations: **mammillary bodies, periaqueductal gray matter, tectal plate**. Clinical triad: ataxia (periaqueductal/vestibular), ophthalmoplegia (periaqueductal/oculomotor nuclei), memory impairment (mammillary bodies → Papez circuit). Mammillary body atrophy on sagittal MRI is a chronic sequela that supports prior Wernicke even when acute imaging was missed.
+
+### Marchiafava-Bignami Disease
+
+Chronic alcoholism → demyelination and necrosis of the **middle layers of the corpus callosum** (genu and body), with two forms: type A (large lesions, callosal swelling, poor prognosis) and type B (smaller, better outcome). Diffusion restriction in the acute phase on the DWI. Not to be confused with Susac's "snowball" — the layer specificity (middle layers only) and the clinical context (alcoholism) are distinct.
+
+### Radiation Leukoencephalopathy
+Occurs often months/years after radiation therapy, can show central necrosis with surrounding enhancement (ring-like) and can pose diagnostic dilemma with recurring malignancy as differential.
+
+---
+
+## The Big Picture
+
+The paper's broader lesson is that **the pathologic substrate is the key to imaging**. 
+
+- Oligodendrocyte attack → white matter, U-fibers included. 
+- Microglia infection → central, symmetric, atrophy. 
+- Astrocyte targeting at periependymal sites → periependymal distribution, no U-fibers. 
+- Vascular endzone disease → deep WM, U-fibers spared. 
+- Osmotic/metabolic injury → anatomy of highest metabolic demand or least autoregulatory protection.
+
+Once you understand why a lesion looks a certain way, the imaging becomes predictable rather than a list to memorize.

@@ -9,6 +9,17 @@ Some demyelinating lesions are easy to spot: small, periventricular, ovoid, orie
 
 *Personal notes based on: Nakayama M et al. A Review of Clinical and Imaging Findings in Tumefactive Demyelination. AJR 2021;217:186–197. https://doi.org/10.2214/AJR.20.24321*
 
+<style>
+.callout a {
+  color: var(--callout-color);
+}
+</style>
+
+::: {.callout-note title="Radiopaedia Cases"}
+- [Case #214908](https://radiopaedia.org/cases/214908){target="_blank"}
+- [Case #61637](https://radiopaedia.org/cases/61637){target="_blank"}
+:::
+
 ---
 
 ## What Makes a Lesion "Tumefactive"?
