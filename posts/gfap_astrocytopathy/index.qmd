@@ -2,7 +2,7 @@
 title: "GFAP Astrocytopathy: The Perivascular Fingerprint"
 date: 2026-04-01
 author: "Christoph"
-categories: [Demyelination]
+categories: [White Matter, Demyelination]
 draft: false
 ---
 GFAP astrocytopathy was only described in 2016. Which means it's new enough that nobody has agreed on diagnostic criteria yet, the literature is thin, and it keeps getting mistaken for half a dozen other diseases. It presents as encephalomyelitis, fools people into thinking it's an infection or a lymphoma, melts away dramatically with steroids, and then sometimes comes back for an encore. Once you know its imaging signature, though, you can pick it up early — before the serology returns, sometimes before anyone's even thought to send the right test.

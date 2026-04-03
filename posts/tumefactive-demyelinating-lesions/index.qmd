@@ -2,7 +2,7 @@
 title: "Tumefactive Demyelination: When Inflammation Looks Like 'Holy Christ'"
 date: 2026-04-01
 author: "Christoph"
-categories: [Demyelination]
+categories: [White Matter, Demyelination]
 draft: false
 ---
 Some demyelinating lesions are easy to spot: small, periventricular, ovoid, oriented along the medullary veins. But a subset are large, oedematous, and enhancing — and on first pass look indistinguishable from a brain tumour. These are tumefactive demyelinating lesions, and understanding them is as much about recognising their imaging fingerprints as it is about understanding why they look the way they do.

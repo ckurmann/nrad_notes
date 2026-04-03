@@ -2,7 +2,7 @@
 title: "White Matter Diseases: The Classification That Makes Everything Else Make Sense (Probably...Or Hopefully?)"
 date: 2026-04-03
 author: "Christoph"
-categories: [White Matter Diseases, Review]
+categories: [White Matter, Overview]
 draft: false
 ---
 Every white matter disease session eventually runs into the same problem: there are too many entities, and without a framework they blur together. Sarbu et al. 2016 is the paper that provides such a framework — a pathophysiologic classification of white matter diseases teaching us the why behind the what to help organize our clinical intuition.

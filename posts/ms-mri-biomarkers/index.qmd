@@ -2,7 +2,7 @@
 title: "MRI Biomarkers of Multiple Sclerosis: New McDonalds Farm"
 date: 2026-03-31
 author: "Christoph"
-categories: [Demyelination]
+categories: [White Matter, Demyelination]
 draft: false
 ---
 MRI is the most important tool for diagnosing, monitoring, and assessing treatment response in MS. But standard T2-weighted imaging lacks pathologic specificity — plenty of conditions mimic MS on conventional sequences, and counting white spots only gets you so far. This post covers both conventional and emerging MRI biomarkers, and what actually changed in the 2024 revised McDonald criteria.

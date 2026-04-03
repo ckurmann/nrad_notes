@@ -2,7 +2,7 @@
 title: "NMOSD: The Astrocyte's Revenge"
 date: 2026-03-31
 author: "Christoph"
-categories: [Demyelination]
+categories: [White Matter, Demyelination]
 draft: false
 ---
 NMOSD and MS can look similar on conventional MRI. But their treatments are fundamentally different — and some MS-specific drugs can actively worsen NMOSD. Getting this distinction right is not academic: it directly determines patient outcomes. This post covers the imaging spectrum of NMOSD, the mechanistic logic behind its lesion distribution, and how to distinguish it from MS, MOGAD, and a range of non-demyelinating mimics.
